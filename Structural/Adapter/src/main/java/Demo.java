@@ -1,3 +1,5 @@
+package Structural.Adapter.src.main.java;
+
 import adapters.SquarePegAdapter;
 import round.RoundHole;
 import round.RoundPeg;

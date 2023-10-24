@@ -8,8 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="FactoryMethod" />
         <module name="Composite" />
-        <module name="AbstractFactory" />
+        <module name="Command" />
         <module name="Builder" />
+        <module name="Observer" />
+        <module name="Stategy" />
+        <module name="AbstractFactory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

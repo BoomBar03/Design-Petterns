@@ -10,7 +10,7 @@ public class RoundHole {
         return radius;
     }
 
-    public boolean fits(RoundPeg peg){
+    public boolean fits(round.RoundPeg peg){
         boolean result;
         result = (this.getRadius()>=peg.getRadius());
         return result;
